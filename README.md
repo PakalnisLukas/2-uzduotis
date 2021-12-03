@@ -1,6 +1,6 @@
 # 2-uzduotis
 
-#V1.1
+# V1.1  
 V1 tęsinys. Šioje versijoje buvo pakeista iš Struct Studentas į class Studentas.
 Gauti rezultatai su class Studentas:  
 1000 Studentu skirstymas ir isvedimas uztruko 76 ms.  
